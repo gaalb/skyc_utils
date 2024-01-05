@@ -7,8 +7,10 @@ Clone this repository, then change into the cloned directory.
 3. pip install -e .
 ## On Windows
 1. python -m venv venv
-2. venv/Scripts/activate
-3. pip install -e .
+2. cd into the folder venv/Scripts
+3. activate
+4. navitage back to the root directory of the project
+5. pip install -e .
 # Skyc inspector
 This script will prompt you to select a skyc file, and will evaluate it, providing animation
 and diagrams.
