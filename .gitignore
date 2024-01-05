@@ -1,0 +1,3 @@
+*.skyc
+.idea/
+venv/
